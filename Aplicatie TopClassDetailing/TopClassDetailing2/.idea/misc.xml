@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout-w936dp/inregistrare_main.xml" value="0.20969945355191258" />
+        <entry key="..\:/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_autentificare.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_date_de_contact.xml" value="0.27807971014492755" />
+        <entry key="..\:/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_in_progress.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_logo_si_info.xml" value="0.27807971014492755" />
+        <entry key="..\:/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_main.xml" value="0.27807971014492755" />
+        <entry key="..\:/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_meniu_autentificare_inregistrare.xml" value="0.27807971014492755" />
+        <entry key="..\:/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_meniul_principal.xml" value="0.27807971014492755" />
+        <entry key="..\:/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_top_class_detailing.xml" value="0.27807971014492755" />
+        <entry key="..\:/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_video_logo.xml" value="0.27807971014492755" />
+        <entry key="..\:/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/fragment_caroserie.xml" value="0.27807971014492755" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/drawable-anydpi/ic_account.xml" value="0.3828125" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/drawable/custom_button.xml" value="0.3828125" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.3828125" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout-w936dp/inregistrare_main.xml" value="0.275" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_autentificare.xml" value="0.25" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_caroserie.xml" value="0.2269021739130435" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_ceramica.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_date_de_contact.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_detailing.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_faruri.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_gps.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_gps_pentru_top_class_detailing.xml" value="0.3532608695652174" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_inregistrare.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_logo_si_info.xml" value="0.2957427536231884" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_meniu_autentificare_inregistrare.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_meniul_principal.xml" value="0.28306159420289856" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_motor.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_pager_adapter.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_taburi.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_taburile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_top_class_detailing.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_video_logo.xml" value="0.25" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/app_bar_gps.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/content_gps.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/fragment_caroserie.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/fragment_ceramica.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/fragment_detailing.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/fragment_faruri.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/fragment_gallery.xml" value="0.297554347826087" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/fragment_home.xml" value="0.297554347826087" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/fragment_motor.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/fragment_slideshow.xml" value="0.297554347826087" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/fragment_taburi.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/nav_header_gps.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/menu/g.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/menu/menu_top_class_detailing.xml" value="0.36666666666666664" />
+        <entry key="..\:/Chestii de pe C/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="..\:/Proiecte CV/Aplicatie TopClassDetailing/TopClassDetailing2/app/src/main/res/layout/activity_autentificare.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/drawable/custom_button.xml" value="0.3828125" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/drawable/custom_button_negru.xml" value="0.3828125" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout-w936dp/inregistrare_main.xml" value="0.2496584699453552" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_autentificare.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_inregistrare.xml" value="0.33" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_logo_si_info.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_meniu_autentificare_inregistrare.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_meniu_pentru_inregistrare_si_autentificare.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_meniul_principal.xml" value="0.33967391304347827" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_top_class_detailing.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/activity_video_logo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/danil/AndroidStudioProjects/TopClassDetailing2/app/src/main/res/layout/content_scrolling.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

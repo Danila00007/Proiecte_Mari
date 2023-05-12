@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Detailing">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:id="@+id/scrollviewdet"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="SpeakableTextPresentCheck">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="~Detailing interior~"
+                    android:textAlignment="center"
+                    android:textColor="@color/gold"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Preț:"
+                    android:textAlignment="center"
+                    android:textColor="@color/gold"
+                    android:textSize="20sp" />
+
+                <ImageView
+                    android:id="@+id/imageView10"
+                    android:layout_width="match_parent"
+                    android:layout_height="400dp"
+                    android:contentDescription="@string/app_name"
+                    android:src="@drawable/detailingint1" />
+
+                <ImageView
+                    android:id="@+id/imageView11"
+                    android:layout_width="match_parent"
+                    android:contentDescription="@string/app_name"
+                    android:layout_height="400dp"
+                    android:src="@drawable/det" />
+
+                <ImageView
+                    android:id="@+id/imageView12"
+                    android:layout_width="match_parent"
+                    android:contentDescription="@string/app_name"
+                    android:layout_height="400dp"
+                    android:src="@drawable/der2" />
+
+                <ImageView
+                    android:id="@+id/imageView13"
+                    android:layout_width="match_parent"
+                    android:contentDescription="@string/app_name"
+                    android:layout_height="400dp"
+                    android:src="@drawable/det4" />
+
+                <ImageView
+                    android:id="@+id/imageView14"
+                    android:layout_width="match_parent"
+                    android:contentDescription="@string/app_name"
+                    android:layout_height="400dp"
+                    android:src="@drawable/det3" />
+
+                <ImageView
+                    android:id="@+id/imageView15"
+                    android:layout_width="match_parent"
+                    android:contentDescription="@string/app_name"
+                    android:layout_height="400dp"
+                    android:src="@drawable/det6" />
+
+                <ImageView
+                    android:id="@+id/imageView16"
+                    android:layout_width="match_parent"
+                    android:contentDescription="@string/app_name"
+                    android:layout_height="400dp"
+                    android:src="@drawable/det7" />
+
+                <ImageView
+                    android:id="@+id/imageView8"
+                    android:contentDescription="@string/app_name"
+                    android:layout_width="400dp"
+                    android:layout_height="400dp"
+                    android:src="@drawable/detin3" />
+
+                <ImageView
+                    android:id="@+id/imageView7"
+                    android:contentDescription="@string/app_name"
+                    android:layout_width="400dp"
+                    android:layout_height="400dp"
+                    android:src="@drawable/detinnnn" />
+
+                <ImageView
+                    android:id="@+id/imageView6"
+                    android:contentDescription="@string/app_name"
+                    android:layout_width="400dp"
+                    android:layout_height="400dp"
+                    android:src="@drawable/detinttt" />
+            </LinearLayout>
+
+        </ScrollView>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>
