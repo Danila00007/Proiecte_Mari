@@ -1,5 +1,3 @@
-#include <LiquidCrystal_I2C.h>
-
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 #include <Keypad.h> //include keypad library - first you must install library (library link in the video description)
@@ -12,7 +10,7 @@
 
 const int trigPin = 10;
 const int echoPin = 11;
-char* password ="7355608"; //create a password
+char* password ="12"; //create a password
 int pozisyon = 0,k=1,c=0,b=10,a=20,piezoPin = 12; //keypad position
 long dezamorsare;
 int distanta;
@@ -171,7 +169,7 @@ if(whichKey == 'B')
 }
 
   
-  if(digitalRead(pinButon)== LOW && pozisyon == 8){
+  if(digitalRead(pinButon)== LOW){
     delay(1000);
     lcd.clear();
     lcd.setCursor(0, 0);
